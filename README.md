@@ -1,5 +1,7 @@
-👋 Hi, I’m **Vishvaraj** (with a *V* before H)!
+👋 Hi, I’m **Vishvaraj** (with a *V* after H)!
 
+🏆 Won Entrepreneurship Competition organized by CleverHarvey x OmniActive for [Nerdigo](https://github.com/VishvarajD/nerdigo) 
+ 
 💡 I’ve contributed to open-source at **Magico**, helping build a **Museum Ticketing Website**.
 
 💻 I’ve also contributed to **@ACES-RMDSSOE** by developing a [custom link shortener](https://github.com/ACES-RMDSSOE/share) for our official website.
