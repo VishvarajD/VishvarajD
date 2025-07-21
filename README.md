@@ -1,4 +1,4 @@
-👋 Hi, I’m **Vishvaraj** (with a *V* after H)!
+👋 Hi, I’m **Vishvaraj** (with a *V* before H)!
 
 💡 I’ve contributed to open-source at **Magico**, helping build a **Museum Ticketing Website**.
 
